@@ -1,0 +1,31 @@
+@font-face{
+  font-family: 'BalletHarmony';
+  src: url('./assets/BalletHarmony.ttf') format('truetype');
+}
+
+body {
+  background-image: url('./assets/background.jpg');
+  color: white;
+  font-family: 'BalletHarmony', Fallback, sans-serif;
+  font-size: 50px;
+  align-items: center;
+  margin: 0 auto;
+  padding: 50px;
+  text-align: center;
+}
+
+#answerDiv {
+  padding: 20px;
+}
+
+#answer {
+  font-size: 30px;
+  width: 70%;
+  margin:0 auto;
+}
+
+#submit {
+  height: 50px;
+  font-size: 30px;
+  text-align:center;
+}
