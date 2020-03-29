@@ -77,10 +77,6 @@ var verses = [
     answer: "the glory of God"
   },
   {
-    verse: "Whatever you do, do everything for _____. (1 Corinthians 10:31)",
-    answer: "the glory of God"
-  },
-  {
     verse: "I praise you God, for I am fearfully _____. (Psalm 139:14)",
     answer: "and wonderfully made"
   },
@@ -89,16 +85,16 @@ var verses = [
     answer: "fear no evil"
   },
   {
-    verse: "Come to me, all who labor and are heavy laden, and _____. (Matthew 11:28)",
-    answer: "I will give you rest"
+    verse: "Come to me, all who labor and are heavy laden, and I will _____. (Matthew 11:28)",
+    answer: "give you rest"
   },
   {
-    verse: "In the world you will have tribulation. But take heart; _____. (John 16:33)",
-    answer: "I have overcome the world"
+    verse: "In the world you will have tribulation. But take heart; I have _____. (John 16:33)",
+    answer: "overcome the world"
   },
   {
-    verse: "What then shall we say to these things? _____, who can be against us? (Romans 8:31)",
-    answer: "If God is for us"
+    verse: "What then shall we say to these things? If _____, who can be against us? (Romans 8:31)",
+    answer: "God is for us"
   }
 ];
 
