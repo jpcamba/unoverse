@@ -1,12 +1,12 @@
 @font-face{
-  font-family: 'BalletHarmony';
-  src: url('./assets/BalletHarmony.ttf') format('truetype');
+  font-family: 'LeahleeSans';
+  src: url('./assets/LeahleeSans.ttf') format('truetype');
 }
 
 body {
   background-image: url('./assets/background.jpg');
   color: white;
-  font-family: 'BalletHarmony', Fallback, sans-serif;
+  font-family: 'LeahleeSans', Fallback, sans-serif;
   font-size: 50px;
   align-items: center;
   margin: 0 auto;
