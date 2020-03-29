@@ -5,8 +5,8 @@ var verses = [
     answer: "name"
   },
   {
-    verse: "For my yoke is easy and my burden is _____. (Matthew 11:30)",
-    answer: "light"
+    verse: "For my yoke is easy and _____. (Matthew 11:30)",
+    answer: "my burden is light"
   },
   {
     verse: "You are the light of the world. A city that is set on a hill cannot be _____. (Matthew 5:14)",
@@ -17,8 +17,8 @@ var verses = [
     answer: "ceasing"
   },
   {
-    verse: "This is the day the Lord has made; we will rejoice and be _____ in it. (Psalm 118:24)",
-    answer: "glad"
+    verse: "This is the day the Lord has made; we will rejoice and be _____. (Psalm 118:24)",
+    answer: "glad in it"
   },
   {
     verse: "In everything give _____, for this is the will of God in Christ Jesus for you. (1 Thessalonians 5:18)",
@@ -33,8 +33,8 @@ var verses = [
     answer: "household"
   },
   {
-    verse: "Delight yourself in the Lord, and He shall give you the _____ of your heart. (Psalm 37:4)",
-    answer: "desires"
+    verse: "Delight yourself in the Lord, and He shall give you the _____. (Psalm 37:4)",
+    answer: "desires of your heart"
   },
   {
     verse: "Set your mind on things _____, not on things on the earth. (Colossians 3:2)",
@@ -45,40 +45,40 @@ var verses = [
     answer: "glory"
   },
   {
-    verse: "Oh, give thanks to the Lord, for He is good! For His mercy endures _____. (Psalm 136:1)",
-    answer: "forever"
+    verse: "Oh, give thanks to the Lord, for He is good! For His mercy _____. (Psalm 136:1)",
+    answer: "endures forever"
   },
   {
     verse: "The Lord is my light and my salvation - whom shall I _____? (Psalm 27:1)",
     answer: "fear"
   },
   {
-    verse: "Resist the devil and he will _____ from you. (James 4:7)",
-    answer: "flee"
+    verse: "Resist the devil and he will _____. (James 4:7)",
+    answer: "flee from you"
   },
   {
-    verse: "Let everything that has breath _____ the Lord. (Psalm 150:6)",
-    answer: "praise"
+    verse: "Let everything that has breath _____. (Psalm 150:6)",
+    answer: "praise the Lord"
   },
   {
-    verse: "Trust in the Lord with all your heart, and lean not on your own _____. (Proverbs 3:5)",
-    answer: "understanding"
+    verse: "Trust in the Lord with all your heart, and lean not _____. (Proverbs 3:5)",
+    answer: "on your own understanding"
   },
   {
     verse: "We love because He first _____ us. (1 John 4:19)",
     answer: "loved"
   },
   {
-    verse: "Therefore if anyone is in Christ, he is a new _____. (2 Corinthians 5:17)",
-    answer: "creation"
+    verse: "Therefore if anyone is in Christ, he is a _____. (2 Corinthians 5:17)",
+    answer: "new creation"
   },
   {
     verse: "Whatever you do, do everything for the _____ of God. (1 Corinthians 10:31)",
     answer: "glory"
   },
   {
-    verse: "I praise you God, for I am fearfully and _____ made. (Psalm 139:14)",
-    answer: "wonderfully"
+    verse: "I praise you God, for I am fearfully and _____. (Psalm 139:14)",
+    answer: "wonderfully made"
   },
   {
     verse: "Even though I walk through the valley of the shadow of death, I will fear no _____. (Psalm 23:4)",
